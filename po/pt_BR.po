@@ -1,0 +1,222 @@
+# Russian translation for com.github.avojak.warble
+# Copyright (C) 2022 THE com.github.avojak.warble'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the com.github.avojak.warble package.
+# lenemter <lenemter@gmail.com>, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: extra\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-28 22:43+0900\n"
+"PO-Revision-Date: 2025-01-31 02:31-0300\n"
+"Last-Translator: john peter <johnppetersa@gmail.com>\n"
+"Language-Team: none\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.5\n"
+
+#: data/com.github.avojak.warble.desktop.in.in:3
+#: data/com.github.avojak.warble.appdata.xml.in.in:7
+msgid "@name@"
+msgstr "@nome@"
+
+#: data/com.github.avojak.warble.desktop.in.in:4
+msgid "Word Game"
+msgstr "Jogo de palavras"
+
+#: data/com.github.avojak.warble.desktop.in.in:5
+#: data/com.github.avojak.warble.appdata.xml.in.in:8
+msgid "The word-guessing game"
+msgstr "O jogo de adivinhação da palavra"
+
+#: data/com.github.avojak.warble.desktop.in.in:11
+msgid "Game;Word;Puzzle;wordle;"
+msgstr "Jogo; palavra; quebra -cabeça; wordle;"
+
+#: data/com.github.avojak.warble.appdata.xml.in.in:10
+msgid "Figure out the word before your guesses run out!"
+msgstr "Descubra a palavra antes que suas suposições acabem!"
+
+#: data/com.github.avojak.warble.appdata.xml.in.in:12
+msgid "Three difficulty levels"
+msgstr "Três níveis de dificuldade"
+
+#: data/com.github.avojak.warble.appdata.xml.in.in:13
+msgid "Almost 5k possible answers"
+msgstr "Quase 5k possíveis respostas"
+
+#: data/com.github.avojak.warble.appdata.xml.in.in:14
+msgid ""
+"Need a break? Close the game and automatically pick back up where you left "
+"off"
+msgstr ""
+"Precisa de uma pausa? Feche o jogo e automaticamente recupere de onde você "
+"parou"
+
+#: data/com.github.avojak.warble.appdata.xml.in.in:23
+msgid "2.0.1 Release"
+msgstr "2.0.1 Lançamento"
+
+#: data/com.github.avojak.warble.appdata.xml.in.in:25
+msgid ""
+"New icon based on updated keycap shape from elementary OS icon set (#40)"
+msgstr ""
+"Novo ícone baseado na forma de Keycap atualizada do conjunto de ícones do "
+"sistema operacional (#40)"
+
+#: data/com.github.avojak.warble.appdata.xml.in.in:26
+msgid "Increased blur for translucent overlays (#41)"
+msgstr "Aumento do borrão para sobreposições translúcidas (#41)"
+
+#: data/com.github.avojak.warble.appdata.xml.in.in:27
+msgid "Added captions for appdata screenshots (#42)"
+msgstr "Legendas adicionadas para capturas de tela do AppData (#42)"
+
+#: data/com.github.avojak.warble.appdata.xml.in.in:33
+msgid "2.0.0 Release"
+msgstr "2.0.0 Lançamento"
+
+#: data/com.github.avojak.warble.appdata.xml.in.in:35
+msgid "Hello, GTK4!"
+msgstr "Olá, GTK4!"
+
+#: data/com.github.avojak.warble.appdata.xml.in.in:36
+msgid "Improved colors when system is using the dark theme (#20)"
+msgstr "Cores aprimoradas quando o sistema está usando o tema escuro (#20)"
+
+#: data/com.github.avojak.warble.appdata.xml.in.in:42
+msgid "1.5.0 Release"
+msgstr "1.5.0 Lançamento"
+
+#: data/com.github.avojak.warble.appdata.xml.in.in:44
+msgid "Respect the system gtk_decoration_layout preference (#36)"
+msgstr "Respeitar a preferência do sistema gtk_decoration_layout (#36)"
+
+#: data/com.github.avojak.warble.appdata.xml.in.in:45
+msgid "Fix inability to deselect the menu button (#34)"
+msgstr "Corrija a incapacidade de desmarcar o botão do menu (#34)"
+
+#: data/com.github.avojak.warble.appdata.xml.in.in:51
+msgid "1.4.0 Release"
+msgstr "1.4.0 Lançamento"
+
+#: data/com.github.avojak.warble.appdata.xml.in.in:53
+msgid "Update to elementary OS 7 runtime"
+msgstr "Atualização para o elementar OS 7 Runtime"
+
+#: data/com.github.avojak.warble.appdata.xml.in.in:59
+msgid "1.3.1 Release"
+msgstr "1.3.1 Lançamento"
+
+#: data/com.github.avojak.warble.appdata.xml.in.in:61
+msgid "Fix missing title for application window (#31)"
+msgstr "Corrija o título ausente para a janela do aplicativo (#31)"
+
+#: data/com.github.avojak.warble.appdata.xml.in.in:67
+msgid "1.3.0 Release"
+msgstr "1.3.0 Lançamento"
+
+#: data/com.github.avojak.warble.appdata.xml.in.in:69
+msgid "Fix backspace key symbol not rendering (#23)"
+msgstr "Corrija o símbolo da chave do backspace não renderizando (#23)"
+
+#: data/com.github.avojak.warble.appdata.xml.in.in:70
+msgid "Fix closing one app window closing all of them (#24)"
+msgstr ""
+"Corrija o fechamento de uma janela de aplicativo fechando todos eles (#24)"
+
+#: data/com.github.avojak.warble.appdata.xml.in.in:71
+msgid "Add ability to reset gameplay statistics (#25)"
+msgstr "Adicione a capacidade de redefinir as estatísticas de jogo (#25)"
+
+#: data/com.github.avojak.warble.appdata.xml.in.in:77
+msgid "1.2.0 Release"
+msgstr "1.2.0 Lançamento"
+
+#: data/com.github.avojak.warble.appdata.xml.in.in:79
+msgid "Suggest pressing \"Enter\" for first-time users (#2)"
+msgstr "Sugerir pressionar \"Enter\" para usuários iniciantes (nº 2)"
+
+#: data/com.github.avojak.warble.appdata.xml.in.in:80
+msgid "Force elementary OS stylesheet on other platforms (#15)"
+msgstr "FORÇA DE ESTILES DE ESTILHA DE SERENTE OS OUTRAS PLATAFORMAS (#15)"
+
+#: data/com.github.avojak.warble.appdata.xml.in.in:81
+msgid "Add high-contrast mode (#17)"
+msgstr "Adicione o modo de alto contraste (#17)"
+
+#: data/com.github.avojak.warble.appdata.xml.in.in:87
+msgid "1.1.1 Release"
+msgstr "1.1.1 Lançamento"
+
+#: data/com.github.avojak.warble.appdata.xml.in.in:89
+msgid "Fix issue where answers were potentially non-guessable words (#11)"
+msgstr ""
+"Corrija o problema onde as respostas eram potencialmente palavras não "
+"guessíveis (#11)"
+
+#: data/com.github.avojak.warble.appdata.xml.in.in:95
+msgid "1.1.0 Release"
+msgstr "1.1.0 Lançamento"
+
+#: data/com.github.avojak.warble.appdata.xml.in.in:97
+msgid ""
+"Fix issue where a new game couldn't not be started before making a guess (#7)"
+msgstr ""
+"Corrija o problema onde um novo jogo não poderia ser iniciado antes de fazer "
+"um palpite (#7)"
+
+#: data/com.github.avojak.warble.appdata.xml.in.in:98
+msgid "Enable mouse clicks and touchscreen taps to the onscreen keyboard (#1)"
+msgstr ""
+"Ativar cliques de mouse e toques de tela sensível ao toque para o teclado na "
+"tela (#1)"
+
+#: data/com.github.avojak.warble.appdata.xml.in.in:99
+msgid "Update elementary platform runtime to 6.1 (#4)"
+msgstr "Atualizar o tempo de execução da plataforma elementar para 6.1 (#4)"
+
+#: data/com.github.avojak.warble.appdata.xml.in.in:100
+msgid "Remove unnecessary network sandbox hole (#5)"
+msgstr "Remova o buraco de sandbox de rede desnecessária (#5)"
+
+#: data/com.github.avojak.warble.appdata.xml.in.in:101
+msgid "Remove extraneous OARS metadata (#6)"
+msgstr "Remova os metadados estranhos de OARS (#6)"
+
+#: data/com.github.avojak.warble.appdata.xml.in.in:102
+msgid "Include \"wordle\" as a keyword for the desktop file (By cassidyjames)"
+msgstr ""
+"Inclua \"Wordle\" como uma palavra -chave para o arquivo de desktop (de "
+"Cassidyjames)"
+
+#: data/com.github.avojak.warble.appdata.xml.in.in:108
+msgid "Set Stripe key and monetization"
+msgstr "Definir a chave da listra e monetização"
+
+#: data/com.github.avojak.warble.appdata.xml.in.in:113
+msgid "Initial Release"
+msgstr "Liberação inicial"
+
+#: data/com.github.avojak.warble.appdata.xml.in.in:119
+msgid "Game View"
+msgstr "Visualização do jogo"
+
+#: data/com.github.avojak.warble.appdata.xml.in.in:123
+msgid "Game View (Dark Mode)"
+msgstr "Visualização do jogo (modo escuro)"
+
+#: data/com.github.avojak.warble.appdata.xml.in.in:127
+msgid "Victory Screen"
+msgstr "Tela de vitória"
+
+#: data/com.github.avojak.warble.appdata.xml.in.in:131
+msgid "Hard Mode"
+msgstr "Modo difícil"
+
+#: data/com.github.avojak.warble.appdata.xml.in.in:135
+msgid "Andrew Vojak"
+msgstr "Andrew Vojak"
